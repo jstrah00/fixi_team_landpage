@@ -1,0 +1,14 @@
+.title{
+    font-family: AlongSans;
+    font-size: 68px;
+}
+
+
+.title_container{
+    text-align: center;
+}
+
+.logo{
+    max-width: 20%;
+    height: auto;
+}

@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+}
+
+.countdown_container{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.number{
+    font-family: DS-Digit;
+    font-size: 150px;
+    color: #E15D5D;
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 0px;
+}
+.subtext{
+    font-family: Poppins-regular;
+    font-size: 36px;
+    color: #E15D5D;
+    margin: 0;
+}
+.subtitle{
+    font-family: Poppins-bold;
+    font-size: 36px;
+    margin: 0;
+}

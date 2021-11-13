@@ -1,0 +1,47 @@
+.task-item-container{
+    margin-top: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:#9489DC;
+    width: 50%;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.task-item-title{
+    font-size: 30px;
+    margin: 0px;
+}
+
+.task-checkbox{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:#9489DC;
+    height: 35px;
+    width: 35px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 15px;
+}
+
+.task-checkbox:hover{
+    background-color: #9489DC;
+}
+
+.trash-icon{
+    max-height: 40px;  
+    margin-left: auto;
+    margin-right: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.trash-icon:hover{
+    max-height: 45px;
+}
